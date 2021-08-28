@@ -1,6 +1,6 @@
 h3 {
     font-family: 'Bogart';
-    color: black;
+    color: var(--color1);
     margin: 0;
 }
 
